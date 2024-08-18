@@ -1,4 +1,4 @@
-# Utilizando el control RadNumericTextBox de Telerik
+# Usando el control RadNumericTextBox de Telerik con ASP.NET
 
 <p align="justify">
 El <a href="http://www.telerik.com/help/aspnet-ajax/input-numerictextbox-basics.html">RadNumericTextBox</a> es uno de los controles que pertenecen al conjunto
@@ -44,24 +44,24 @@ Por último en el code-behind utilizo la propiedad <i>Culture</i> para establece
 Al ejecutar la página ASP.NET observaras los siguientes resultados,si el país es&nbsp; Brazil, las cantidades se formatean deacuerdo a la configuración de ese país.
 </p>
 <div>
-<IMG src="picture_library/radnumerictextbox/fig1.png">
+<IMG src="images/fig1.png">
 </div>
 <p align="justify">
 Si el páis seleccionado es United Kingdom, lo mismo sucede con las cantidades y con las monedas en este caso aparece el símbolo de la libra (pound).
 </p>
 <div>
-<IMG src="picture_library/radnumerictextbox/fig2.png">
+<IMG src="images/fig2.png">
 </div>
 <p align="justify">
 Si el país es United States,&nbsp; en las cantidades aparece el símbolo del Dollar.
 </p>
 <div>
-<IMG src="picture_library/radnumerictextbox/fig3.png">
+<IMG src="images/fig3.png">
 </div>
 <br>
 <p align="justify">
 Y por último si la opción del país es Spain, aparece el símbolo del Euro.
 </p>
 <div>
-<IMG src="picture_library/radnumerictextbox/fig4.png">
+<IMG src="images/fig4.png">
 </div>
